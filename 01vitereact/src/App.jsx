@@ -1,7 +1,8 @@
 
 function App() {
+  const username = 'hamza'
   return (
-    <h1>Chai Aur React with Vite | Hamza</h1>
+    <h1>Chai Aur React with Vite | {username}</h1>
   )
 }
 
